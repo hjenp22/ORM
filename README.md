@@ -55,7 +55,10 @@ Don't forget to give the project a star! Thanks again!
 
 
 ## Contact 
-Jenni Park | Email: hjipark22@gmail.com | GitHub: hjenp22
+Jenni Park Email: hjipark22@gmail.com
+
+GitHub: hjenp22
+
 Project Link: [Link to Repo](https://github.com/hjenp22/ORM)
 
 
